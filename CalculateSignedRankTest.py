@@ -102,3 +102,15 @@ def main():
   
 if __name__ == "__main__": 
     main()
+
+    
+'''
+Output ::
+
+Signed Test Rank for  48806.0  and  47106.0  =  2762195.0
+Signed Test Rank for  48806.0  and  47287.0  =  926584.5
+Signed Test Rank for  48806.0  and  48020.0  =  29513.5
+Signed Test Rank for  48806.0  and  48863.0  =  1922094.0
+Signed Test Rank for  48806.0  and  50546.0  =  2138358.0
+
+'''
